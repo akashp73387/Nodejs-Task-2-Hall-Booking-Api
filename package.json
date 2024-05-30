@@ -1,0 +1,22 @@
+{
+  "name": "day-38-hall-booking-api",
+  "version": "1.0.0",
+  "description": "A Simple Hall Booking Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+    },
+     "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+
+}
