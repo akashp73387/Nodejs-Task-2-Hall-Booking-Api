@@ -3,7 +3,7 @@
 
 import express from 'express';
 import bodyParser from 'body-parser';
-import routes from './routes/routes.js';
+import routes from './Routes/Routes.js';
 
 const app = express();
 app.use(bodyParser.json());
