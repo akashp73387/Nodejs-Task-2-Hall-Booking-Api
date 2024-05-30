@@ -1,9 +1,11 @@
 This API creates a webserver on port 4010 which has end points to create a room, book a room , list all rooms with booked data, 
 list all customers with booked data and list how many times a customer has booked a room.
 
+
+
 API URL:
 
-https://nodejs-task-2-hall-booking-api.onrender.com/api/create
+https://nodejs-task-2-hall-booking-api.onrender.com/api
 
 Render URL:
 
