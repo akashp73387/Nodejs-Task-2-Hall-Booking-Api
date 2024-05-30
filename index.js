@@ -13,6 +13,6 @@ Postman documentation url - https://documenter.getpostman.com/view/27867831/2s93
 */
 
 app.use('/api', routes);
-
+// to start server
 const PORT = 4010;
 app.listen(PORT, () => console.log(`Started server hallBooking on port ${PORT}`));
